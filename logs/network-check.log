@@ -1,0 +1,8 @@
+2026-09-28 13:33:15 - Error: Host is required.
+2026-09-28 13:38:32 - Starting network check for google.com
+2026-09-28 13:38:32 - Resolved google.com to 2a00:1450:4009:c04::65
+2026-09-28 13:38:32 - Connectivity check: OK
+2026-09-28 13:38:32 - Displayed network interfaces
+2026-09-28 13:38:32 - Checking TCP port 443 on google.com
+2026-09-28 13:38:32 - Port 443 on google.com: OPEN
+2026-09-28 13:38:33 - Network check completed for google.com
