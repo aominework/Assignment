@@ -8,3 +8,6 @@ Network check result are recorded in logs/network-check.log with timestamps.
 
 ## Purpose
 This script check hostname resolution,network coonectivity and TCP ports.
+
+## Port Validation"
+The script accepts TCP port numbers from 1 to 65535.
