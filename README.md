@@ -11,3 +11,6 @@ This script check hostname resolution,network coonectivity and TCP ports.
 
 ## Port Validation"
 The script accepts TCP port numbers from 1 to 65535.
+
+## Devops Assignment
+This repository contains my assignment.
